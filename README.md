@@ -4,8 +4,4 @@
 ※ 추후 HeatMap은 분리될 수 있음
 
 # 실행방법 : 
-1) 집에서
-python run.py .\config\profileDevHome.py
-
-2) 서버에서
-python3 run.py ./config/profileDevServer.py
+python run.py .\config\사용할Profile
